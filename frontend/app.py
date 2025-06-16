@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-API_BASE_URL = 'https://j0omdaa4zk.execute-api.us-east-1.amazonaws.com/dev/users'
+API_BASE_URL = 'https://gfunp9v5sl.execute-api.us-east-1.amazonaws.com/dev/users'
 
 @app.route('/')
 def index():
